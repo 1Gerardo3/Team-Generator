@@ -1,26 +1,9 @@
 {
-  "name": "mystaff",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YacovKopel/MyStaff.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/YacovKopel/MyStaff/issues"
-  },
-  "homepage": "https://github.com/YacovKopel/MyStaff#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  },
-  "devDependencies": {
+    "inquirer": "^8.2.4",
     "jest": "^29.3.1"
+  },
+  "scripts":{
+   "test": "jest"
   }
 }
